@@ -1,0 +1,7 @@
+input[type=button] {
+    border-radius: 20px;
+    cursor: pointer;
+    font-family: 'Montserrat', sans-serif;
+    height: 70px;
+    width: 120px;
+  }
